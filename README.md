@@ -1,16 +1,16 @@
-## Hi there 👋
+👩🏻‍💻 Software Engineering & Digital Business Student
+Currently studying at ESEN, passionate about building digital products that combine technology and creativity.
 
-<!--
-**kmmelissat/kmmelissat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Frontend Developer & UI/UX Enthusiast
+I enjoy crafting modern, responsive, and user-friendly interfaces using HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, etc.
+Also experienced in designing wireframes and prototypes with Figma.
 
-Here are some ideas to get you started:
+🧠 Fullstack Learner
+Diving deeper into backend technologies like NestJS, Prisma, and MongoDB to build complete solutions from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Project-Driven & Agile
+Love working in teams, managing projects with Scrum methodology, and using tools like Jira, Notion, and Trello to stay organized.
+
+🌱 Always Growing
+Curious by nature, always learning something new—whether it’s a framework, design trend, or testing strategy.
+
