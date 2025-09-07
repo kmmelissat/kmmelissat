@@ -35,6 +35,8 @@ const melissa = {
   tools: ["React", "Next.js", "NestJS", "Prisma", "Firebase"],
   design: ["Figma", "UX/UI"],
   motto: "Siempre aprendiendo, siempre creando ✨"
-}  ```
+}
+
+```
 
 <p align="center"> 📬 <a href="mailto:kmmelissat@gmail.com">kmmelissat@gmail.com</a> <br/> 🌐 Let’s connect on <a href="https://www.linkedin.com/in/melissasolorzanot/">LinkedIn</a> </p>
