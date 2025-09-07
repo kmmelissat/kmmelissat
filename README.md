@@ -1,15 +1,10 @@
-<h2 align="center">Hey there 👋, I am <b>Melissa Torres</b></h2>
+<h2 align="center">Hey there 👋, I am <b>Melissa </b></h2>
 
 <p align="center">
-💻 Software Engineering Student @ ESEN | 🌐 Frontend Developer & UX/UI Enthusiast <br/>
+💻 Software Engineering Student @ ESEN | 🌐 Fullstack Engineer @ Boxful <br/>
 🚀 I love building clean, modern and useful web applications <br/>
 🎨 Blending code + design to craft meaningful experiences
 </p>
-
----
-
-### 📊 Wakatime
-![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)
 
 ---
 
@@ -33,15 +28,6 @@
 
 ---
 
-### 🚀 Projects
-- 🎭 **Teatro Nacional App** — UI intuitiva + Firebase
-- 🎟️ **La Cuponera** — Plataforma de cupones con roles y métricas en vivo
-- 📦 **Boxful Challenge** — Form multi-step + JWT + Prisma
-- 💸 **Barbie Financiera** — App de presupuestos personales
-- 📊 **Dashboards con IA** — Analiza CSV/XLSX y crea gráficas instantáneas
-
----
-
 ### 🌱 About Me
 ```js
 const melissa = {
@@ -49,6 +35,6 @@ const melissa = {
   tools: ["React", "Next.js", "NestJS", "Prisma", "Firebase"],
   design: ["Figma", "UX/UI"],
   motto: "Siempre aprendiendo, siempre creando ✨"
-}
+}  ```
 
-<p align="center"> 📬 <a href="mailto:kmmelissat@gmail.com">kmmelissat@gmail.com</a> <br/> 🌐 Let’s connect on <a href="https://www.linkedin.com/in/tu-perfil/">LinkedIn</a> </p> ```
+<p align="center"> 📬 <a href="mailto:kmmelissat@gmail.com">kmmelissat@gmail.com</a> <br/> 🌐 Let’s connect on <a href="https://www.linkedin.com/in/melissasolorzanot/">LinkedIn</a> </p>
