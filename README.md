@@ -1,4 +1,9 @@
-<h2 align="center">Hey there 👋, I am <b>Melissa </b></h2>
+<h2 align="center">Hey there 👋, I am <b>Melissa</b></h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kmmelissat&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/kmmelissat?label=Follow&style=social" />
+</p>
 
 <p align="center">
 💻 Software Engineering Student @ ESEN | 🌐 Fullstack Engineer @ Boxful <br/>
@@ -29,14 +34,32 @@
 ---
 
 ### 🌱 About Me
+
+- 👩‍💻 Passionate about web technologies & user experience
+- 🌎 Interested in scalable solutions and impactful projects
+- 📚 Currently learning: Cloud Computing & Mobile Development
+- 🤝 Open to collaboration on open source and innovative ideas
+
 ```js
 const melissa = {
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
-  tools: ["React", "Next.js", "NestJS", "Prisma", "Firebase"],
+  code: ["JavaScript", "TypeScript", "Python", "PHP"],
+  tools: ["React", "Next.js", "NestJS", "Prisma", "Firebase", "MongoDB"],
   design: ["Figma", "UX/UI"],
-  motto: "Siempre aprendiendo, siempre creando ✨"
+  motto: " May the code be with you "
 }
-
 ```
 
-<p align="center"> 📬 <a href="mailto:kmmelissat@gmail.com">kmmelissat@gmail.com</a> <br/> 🌐 Let’s connect on <a href="https://www.linkedin.com/in/melissasolorzanot/">LinkedIn</a> </p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kmmelissat&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+---
+
+<p align="center">
+  📬 <a href="mailto:kmmelissat@gmail.com">kmmelissat@gmail.com</a> <br/>
+  🌐 Let’s connect on <a href="https://www.linkedin.com/in/melissasolorzanot/">LinkedIn</a>
+</p>
