@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-💻 Software Engineering Student @ ESEN | 🌐 Fullstack Engineer @ Boxful <br/>
+💻 Software Engineering Student @ ESEN | 🌐 Fullstack Engineer @ Propi <br/>
 🚀 I love building clean, modern and useful web applications <br/>
 🎨 Blending code + design to craft meaningful experiences
 </p>
@@ -40,16 +40,7 @@
 - 📚 Currently learning: Cloud Computing & Mobile Development
 - 🤝 Open to collaboration on open source and innovative ideas
 
-```js
-const melissa = {
-  code: ["JavaScript", "TypeScript", "Python", "PHP"],
-  tools: ["React", "Next.js", "NestJS", "Prisma", "Firebase", "MongoDB"],
-  design: ["Figma", "UX/UI"],
-  motto: " May the code be with you "
-}
-```
 
----
 
 ### 📊 GitHub Stats
 
