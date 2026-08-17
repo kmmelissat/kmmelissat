@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-💻 Software Engineering Student @ ESEN | 🌐 Fullstack Engineer @  <a href="https://www.propilatam.com/sv">Propi Latam</a> 
+💻 Software Engineering Student @ ESEN | 🌐 Fullstack Engineer @  <a href="https://www.propilatam.com/sv">Propi Latam</a> <br/>
 🚀 I love building clean, modern and useful web applications <br/>
 🎨 Blending code + design to craft meaningful experiences
 </p>
