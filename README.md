@@ -33,17 +33,6 @@
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-## 🚀 Featured projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**carlitos-shop**](https://github.com/kmmelissat/carlitos-shop) | Full e-commerce app with admin panel | Next.js 15 · TypeScript · Firebase |
-| [**vogue**](https://github.com/kmmelissat/vogue) | Executive sales dashboard for Vogue El Salvador | Next.js · TypeScript |
-| [**vendly**](https://github.com/kmmelissat/vendly) | Mobile app | Dart |
-| [**infinia**](https://github.com/kmmelissat/infinia) | Web app | TypeScript |
-| [**sourceai**](https://github.com/kmmelissat/sourceai) | AI-powered app | TypeScript |
-| [**analisis-al-instante**](https://github.com/kmmelissat/analisis-al-instante) | Instant data analysis | TypeScript |
-
 ## 📊 GitHub stats
 
 <p align="center">
