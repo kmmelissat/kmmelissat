@@ -35,10 +35,7 @@
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kmmelissat&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmmelissat&layout=compact&hide_border=true" />
-</p>
+<img src="https://ghstats.dev/api/card?username=kmmelissat&theme=sakura&border_radius=17" alt="GitHub Stats Card" />
 
 ## 🤝 Let's talk
 
